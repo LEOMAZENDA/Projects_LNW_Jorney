@@ -1,0 +1,20 @@
+
+1. CLONAR
+PS C:\Users\Admin\Desktop> git clone https://github.com/LEOMAZENDA/TCC_UGS2023E:\MeusDocumentos_Pessoais
+
+2. PARA SUBIR O REPOSITORY /(Subir ao Gith) 
+   DENTRO DA PASTA DO GIT, APLIQUE OS COMANDOS 
+	- git add .
+	- git commit -m "Mensagem do commit descrevendo as alterações feitas"
+	- git branch (este veja o nome da branch caso desconheça
+	- git push origin main
+
+
+2. Para Baixar a versao do Reposiorio use esse comando 
+	- git pull origin main
+
+	E é tudo e boa sorte
+
+
+. .....
+
