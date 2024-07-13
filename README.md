@@ -4,25 +4,6 @@
 
 Welcome to the Activity Manager repository! This project is part of my learning journey at Rocketseat, where I am exploring different BackEnd and FrontEnd tracks. The goal is to develop an activity manager using various technologies, both on the BackEnd and FrontEnd, allowing for a wide range of concepts and practices to be explored.
 
-## Project Structure
-
-### BackEnd Tracks
-
-1. **Node.js**
-2. **Python**
-3. **C#**
-4. **Java**
-5. **Go** - (For those with prior coding experience)
-
-### FrontEnd Tracks
-
-0. **HTML | CSS | JavaScript** - (Special for web development beginners)
-1. **React**
-2. **React Native**
-3. **Mobile (iOS / Android)**
-4. **AI**
-5. **DevOps**
-
 ## Objective
 
 The objective of this project is to create an activity manager that allows users to organize and track their daily tasks. The same API will be developed using different BackEnd technologies and consumed by various FrontEnd technologies, providing a comprehensive and comparative view of the different development approaches.
@@ -62,31 +43,12 @@ The objective of this project is to create an activity manager that allows users
   </table>
 </div>
 
-## ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## ----------------------------------------------------------------------------------------------
 
 
 # Gestor de Atividades
 
 Bem-vindo ao repositório do Gestor de Atividades! Este projeto faz parte da minha jornada de aprendizado na Rocketseat, onde estou explorando diferentes trilhas de BackEnd e FrontEnd. O objetivo é desenvolver um gestor de atividades usando diversas tecnologias, tanto no BackEnd quanto no FrontEnd, permitindo explorar uma vasta gama de conceitos e práticas.
-
-## Estrutura do Projeto
-
-### Trilhas de BackEnd
-
-1. **Node.js**
-2. **Python**
-3. **C#**
-4. **Java**
-5. **Go** 
-
-### Trilhas de FrontEnd
-
-0. **HTML | CSS | JavaScript**
-1. **React**
-2. **React Native**
-3. **Mobile (iOS / Android)**
-4. **IA**
-5. **DevOps**
 
 ## Objetivo
 
