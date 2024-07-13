@@ -12,11 +12,11 @@ Bem-vindo ao repositório do Gestor de Atividades! Este projeto faz parte da min
 2. **Python**
 3. **C#**
 4. **Java**
-5. **Go** - (Para quem já tem experiência prévia)
+5. **Go** 
 
 ### Trilhas de FrontEnd
 
-0. **HTML | CSS | JavaScript** - (Especial para iniciantes em desenvolvimento web)
+0. **HTML | CSS | JavaScript**
 1. **React**
 2. **React Native**
 3. **Mobile (iOS / Android)**
