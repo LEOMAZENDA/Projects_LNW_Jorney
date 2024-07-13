@@ -1,4 +1,5 @@
 # BackEnd and FrontEnd Learning Journey
+
 # Gestor de Atividades
 
 Bem-vindo ao repositório do Gestor de Atividades! Este projeto faz parte da minha jornada de aprendizado na Rocketseat, onde estou explorando diferentes trilhas de BackEnd e FrontEnd. O objetivo é desenvolver um gestor de atividades usando diversas tecnologias, tanto no BackEnd quanto no FrontEnd, permitindo explorar uma vasta gama de conceitos e práticas.
@@ -28,21 +29,54 @@ O objetivo deste projeto é criar um gestor de atividades que permita aos usuár
 
 ## Tecnologias Utilizadas
 
-### BackEnd
+<div>
+  <table>
+    <tr>
+      <th>BackEnd</th>
+      <th>FrontEnd</th>
+    </tr>
+    <tr>
+      <td>Node.js</td>
+      <td>HTML, CSS, JavaScript</td>
+    </tr>
+    <tr>
+      <td>Python</td>
+      <td>React</td>
+    </tr>
+    <tr>
+      <td>C#</td>
+      <td>React Native</td>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td>Mobile (iOS / Android)</td>
+    </tr>
+    <tr>
+      <td>Go</td>
+      <td>IA</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>DevOps</td>
+    </tr>
+  </table>
+</div>
 
-- Node.js
-- Python
-- C#
-- Java
-- Go
+## Estrutura de Diretórios
 
-### FrontEnd
-
-- HTML
-- CSS
-- JavaScript
-- React
-- React Native
-- Mobile Development (iOS / Android)
-- Inteligência Artificial
-- DevOps
+```plaintext
+/
+|-- backend/
+|   |-- nodejs/
+|   |-- python/
+|   |-- csharp/
+|   |-- java/
+|   |-- go/
+|
+|-- frontend/
+|   |-- html-css-js/
+|   |-- react/
+|   |-- react-native/
+|   |-- mobile/
+|   |-- ia/
+|   |-- devops/
