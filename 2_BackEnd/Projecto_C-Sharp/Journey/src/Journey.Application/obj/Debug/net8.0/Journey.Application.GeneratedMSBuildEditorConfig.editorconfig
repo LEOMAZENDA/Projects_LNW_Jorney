@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Journey.Application
+build_property.ProjectDir = J:\_CURSOS PARA A VIDA DO DEV\Rocketseat 2024\Jornada NLW 2024\3. Minhas pratica - Repositorio no git\Projects_LNW_Jorney\2_BackEnd\Projecto_C-Sharp\Journey\src\Journey.Application\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

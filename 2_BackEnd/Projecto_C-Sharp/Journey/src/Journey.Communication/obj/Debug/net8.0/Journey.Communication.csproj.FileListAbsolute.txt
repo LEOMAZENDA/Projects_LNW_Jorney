@@ -1,0 +1,1 @@
+J:\_CURSOS PARA A VIDA DO DEV\Rocketseat 2024\Jornada NLW 2024\3. Minhas pratica - Repositorio no git\Projects_LNW_Jorney\2_BackEnd\Projecto_C-Sharp\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.GeneratedMSBuildEditorConfig.editorconfig
