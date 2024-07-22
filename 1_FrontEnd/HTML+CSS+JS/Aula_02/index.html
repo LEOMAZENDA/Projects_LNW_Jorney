@@ -2,17 +2,40 @@
 <html>
 
   <head>
+    <script src="https://cdn.jsdelivr.net/npm/dayjs@1/dayjs.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/dayjs@1/locale/pt-br.js"></script>
+    <script>
+      dayjs.locale('pt-br')
+    </script>
+
     <script type="text/javascript" src="./index.js" defer=""></script>
     <link rel="stylesheet" href="./index.css">
   </head>
 
   <body>
-    <script src="https://cdn.jsdelivr.net/npm/dayjs@1/dayjs.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/dayjs@1/locale/pt-br.js"></script>
-    <script>dayjs.locale('pt-br')</script>
+    <form onsubmit="salvarAtividade(event)">
+      <div>
+        <input type="text" placeholder="Qual a atividade?" name="atividade" required="">
+      </div>
 
-    <h1>Atividades</h1>
-    <section></section>
+      <div>
+        <select name="dia">
+          <option value="2024-03-01">01 de fevereiro</option>
+        </select>
+      </div>
+
+      <div>
+        <select name="hora">
+          <option value="10:30">10:30</option>
+        </select>
+      </div>
+      <button>Salvar atividade</button>
+    </form>
+
+    <main>
+      <h1>Atividades</h1>
+      <section></section>
+    </main>
   </body>
 
 </html>
